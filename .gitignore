@@ -6,8 +6,8 @@ __pycache__/
 # C extensions
 *.so
 # alles an daten
-data/
-
+data/processed
+data/raw
 # Distribution / packaging
 .Python
 build/
