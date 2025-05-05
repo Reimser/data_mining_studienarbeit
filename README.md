@@ -1,4 +1,13 @@
 # Sentimentanalyse von Reddit-Daten im Kontext von Kryptowährungen
+## 🔗 GitHub-Repository
+
+📁 Dieses Projekt findest du auf GitHub:  
+👉 [github.com/Reimser/nlp_fine_tuning](https://github.com/Reimser/nlp_fine_tuning)
+
+📥 Repository klonen:
+```bash
+git clone https://github.com/Reimser/nlp_fine_tuning.git
+```
 ## Überblick
 Dieses Repository enthält alle Notebooks, Auswertungen und Ergebnisse der Studienarbeit im Modul Data Mining an der Digital Business University of Applied Sciences.
 Ziel des Projekts war es, verschiedene NLP-Modelle systematisch auf ihre Eignung zur Sentimentanalyse von kryptobezogenen Reddit-Beiträgen zu untersuchen und durch gezieltes Fine-Tuning zu optimieren.
