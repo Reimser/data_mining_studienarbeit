@@ -69,9 +69,9 @@ Cohen’s Kappa
 Accuracy
 
 Highlights der Ergebnisse
-CryptoBERT erreicht nach Feintuning auf Reddit-Kommentaren einen macro-F1-Score von 0.92.
+CryptoBERT erreicht nach Feintuning auf Reddit-Kommentaren einen macro-F1-Score von 0.96.
 
-FinBERT verbessert sich auf Reddit-Posts, bleibt jedoch aufgrund der kleinen Datenbasis moderat bei F1 ≈ 0.53.
+FinBERT verbessert sich auf Reddit-Posts auf einen F1 von ≈ 0.90.
 
 Klassische Verfahren (VADER, TextBlob) liefern auf kurzen Reddit-Kommentaren deutlich schwächere Ergebnisse.
 
